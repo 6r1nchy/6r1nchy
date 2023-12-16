@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="250" src="https://flic.kr/p/2pmVsoN"/>
+  <img height="150" src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif"  />
 </div>
+
+###
 
 ## Olá 👋! Eu sou o ~~Goku~~, ou melhor o Quenã.
 
@@ -12,9 +14,7 @@
 
 📌 Fique a vontade para me adicionar e dar uma olhada no [meu repositório principal](https://github.com/qgom3s).
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif"  />
-</div>
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/qgom3s/" target="_blank">
@@ -44,9 +44,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6r1nchy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/6r1nchy/6r1nchy/output/snake.svg" alt="Snake animation" />
 
 ###
